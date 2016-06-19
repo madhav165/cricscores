@@ -11,6 +11,3 @@ On Windows:
 1) Go to the folder
 2) Compile with javac -cp .;jsoup-1.9.2.jar CricketScores.java MatchObject.java
 3) Run with java -cp .;$PATH_TO_FOLDER/jsoup-1.9.2.jar;$PATH_TO_FOLDER CricketScores
-
-16-06-2016
-Madhav Kandukuri
