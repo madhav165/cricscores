@@ -19,4 +19,3 @@ Linux users may be able to add a shortcut to the run command as follows:
 4) Type 'source ~/.bash_aliases'
 5) The command 'cricscores' in the command prompt should now work with the same functionality
 
-Remember to compile files after each pull request
