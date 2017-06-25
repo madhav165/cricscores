@@ -2,23 +2,23 @@ This program displays the teams playing cricket and their respective scores in t
 
 This works best with a maximized terminal.
 
-On UNIX:
-1) Go to the folder
-2) Compile with 
+**On UNIX:**
+
+Compile with: 
 
     javac -cp .:jsoup-1.9.2.jar CricketScores.java MatchObject.java
 
-3) Run with 
+Run with:
 
     java -cp .:$PATH_TO_FOLDER/jsoup-1.9.2.jar:$PATH_TO_FOLDER CricketScores
 
-On Windows:
-1) Go to the folder
-2) Compile with 
+**On Windows:**
+
+Compile with :
 
     javac -cp .;jsoup-1.9.2.jar CricketScores.java MatchObject.java
 
-3) Run with:
+Run with:
 
     java -cp .;$PATH_TO_FOLDER/jsoup-1.9.2.jar;$PATH_TO_FOLDER CricketScores
 
