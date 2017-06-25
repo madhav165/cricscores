@@ -2,6 +2,9 @@ This program displays the teams playing cricket and their respective scores in t
 
 This works best with a maximized terminal.
 
+Compilation
+-----------
+
 **On UNIX:**
 
 Compile with: 
@@ -21,6 +24,9 @@ Compile with :
 Run with:
 
     java -cp .;$PATH_TO_FOLDER/jsoup-1.9.2.jar;$PATH_TO_FOLDER CricketScores
+
+Running
+-------
 
 Linux users may be able to add a shortcut to the run command as follows:
 
